@@ -14,6 +14,10 @@ http://rtmp.one.by:1200
 rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1,CANAIS MUSICAIS - 1MUS 1
 http://rtmp.one.by:1300
+#EXTINF:-1,CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,BOOMERANG
+http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
 
 TESTAR OS DEMAIS
 
