@@ -1,0 +1,303 @@
+#EXTM3U
+
+FUNCIONANDO
+
+#EXTINF:-1, CANAIS ABERTOS - BAND RBA (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:0 ,CAMERAS - PANDA AO VIVO
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1, CANAIS ESTRANGEIROS - RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,CANAIS MUSICAIS - 1MUS
+http://rtmp.one.by:1200
+#EXTINF:-1, CANAIS MUSICAIS - 1MUS [HD]
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1,CANAIS MUSICAIS - 1MUS 1
+http://rtmp.one.by:1300
+
+TESTAR OS DEMAIS
+
+#EXTINF:-1, CANAIS MUSICAIS - H!T MUSIC
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0, CANAIS MUSICAIS - MELODY CHANNEL TV HD
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,CANAIS MUSICAIS - MELODY CHANNEL (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,CANAIS MUSICAIS - MUSIC BOX
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8?CANAISGLAU
+#EXTINF:-1, CANAIS MUSICAIS - M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1, CANAIS MUSICAIS - MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,CANAIS MUSICAIS - ONE 0
+http://rtmp.one.by:1200
+#EXTINF:-1,CANAIS MUSICAIS - ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:-1,CANAIS MUSICAIS - ONE 4 HD
+http://rtmp.one.by:2300
+#EXTINF:-1,CANAIS MUSICAIS - RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, CANAIS MUSICAIS - RADIOU
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CANAIS MUSICAIS - RADIOU 2
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CANAIS MUSICAIS - TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+#EXTINF:-1, TOP TV 2
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w654982812.m3u8
+ 
+
+
+#EXTINF:-1,National Geographic Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33025
+#EXTINF:-1,Prime Box Brazil SD
+http://linux-app.tv:6204/15020208413552/24021189856304/33041
+#EXTINF:-1,Discovery TLC Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33045
+#EXTINF:-1,Fox Life Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33046
+#EXTINF:-1,Globo Nsc Blumenau SD
+http://linux-app.tv:6204/15020208413552/24021189856304/33047
+#EXTINF:-1,Globo Itapetininga SD
+http://linux-app.tv:6204/15020208413552/24021189856304/33049
+#EXTINF:-1,HBO Extreme HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32939
+#EXTINF:-1,HBO Plus HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32933
+#EXTINF:-1,HBO Plus *e HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32934
+#EXTINF:-1,HBO Signature HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32935
+#EXTINF:-1,HBO Pop HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32941
+#EXTINF:-1,HBO Mundi SD
+http://linux-app.tv:6204/15020208413552/24021189856304/32940
+#EXTINF:-1,HBO Mundi HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32938
+#EXTINF:-1,alliptvlinks.com Br- Globosat Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33051
+#EXTINF:-1,alliptvlinks.com Br- HBO Family Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33052
+#EXTINF:-1,alliptvlinks.com Br- Lifetime Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33053
+#EXTINF:-1,alliptvlinks.com Br- Globo RBS TV Pelotas HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33054
+#EXTINF:-1,alliptvlinks.com Br- TruTV SD
+http://linux-app.tv:6204/15020208413552/24021189856304/33055
+#EXTINF:-1,alliptvlinks.com Br- Chef TV HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33056
+#EXTINF:-1,alliptvlinks.com Br- A&E HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32855
+#EXTINF:-1,alliptvlinks.com Br- AMC HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32856
+#EXTINF:-1,alliptvlinks.com Br- Animal Planet Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32857
+#EXTINF:-1,alliptvlinks.com Br- Arte 1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32858
+#EXTINF:-1,alliptvlinks.com Br- AXN HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32859
+#EXTINF:-1,alliptvlinks.com Br- Bis HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32865
+#EXTINF:-1,alliptvlinks.com Br- Cinemax HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32869
+#EXTINF:-1,alliptvlinks.com Br- Comedy Central HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32871
+#EXTINF:-1,alliptvlinks.com Br- Curta! HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32873
+#EXTINF:-1,alliptvlinks.com Br- Discovery Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32874
+#EXTINF:-1,alliptvlinks.com Br- HGTV HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32875
+#EXTINF:-1,alliptvlinks.com Br- Discovery Home & Health HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32876
+#EXTINF:-1,alliptvlinks.com Br- Discovery Kids HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32877
+#EXTINF:-1,alliptvlinks.com Br- Discovery Science HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32878
+#EXTINF:-1,alliptvlinks.com Br- Discovery Theater HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32879
+#EXTINF:-1,alliptvlinks.com Br- Discovery TLC HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32880
+#EXTINF:-1,alliptvlinks.com Br- Discovery Turbo HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32881
+#EXTINF:-1,alliptvlinks.com Br- Discovery World HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32882
+#EXTINF:-1,alliptvlinks.com Br- E! HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32886
+#EXTINF:-1,alliptvlinks.com Br- Ei Plus
+http://linux-app.tv:6204/15020208413552/24021189856304/32887
+#EXTINF:-1,alliptvlinks.com Br- Food Network HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32892
+#EXTINF:-1,alliptvlinks.com Br- Fox HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32893
+#EXTINF:-1,alliptvlinks.com Br- Fox Life HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32894
+#EXTINF:-1,alliptvlinks.com Br- Fox SD
+http://linux-app.tv:6204/15020208413552/24021189856304/32897
+#EXTINF:-1,alliptvlinks.com Br- Futura HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32900
+#EXTINF:-1,alliptvlinks.com Br- FX HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32901
+#EXTINF:-1,alliptvlinks.com Br- GNT HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32928
+#EXTINF:-1,alliptvlinks.com Br- H2 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32929
+#EXTINF:-1,alliptvlinks.com Br- History Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32936
+#EXTINF:-1,alliptvlinks.com Br- Lifetime HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32937
+#EXTINF:-1,alliptvlinks.com Br- Megapix HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32942
+#EXTINF:-1,alliptvlinks.com Br- MTV HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32943
+#EXTINF:-1,alliptvlinks.com Br- MTV Live HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32944
+#EXTINF:-1,alliptvlinks.com Br- Multishow HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32945
+#EXTINF:-1,alliptvlinks.com Br- Music Box Brazil SD
+http://linux-app.tv:6204/15020208413552/24021189856304/32946
+#EXTINF:-1,alliptvlinks.com Br- Nat Geo Kids HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32947
+#EXTINF:-1,alliptvlinks.com Br- Nat Geo Wild HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32948
+#EXTINF:-1,alliptvlinks.com Br- National Geographic HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32949
+#EXTINF:-1,alliptvlinks.com Br- Globosat HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32926
+#EXTINF:-1,alliptvlinks.com Br- Off HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32953
+#EXTINF:-1,alliptvlinks.com Br- Paramount Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32954
+#EXTINF:-1,alliptvlinks.com Br- Play TV SD
+http://linux-app.tv:6204/15020208413552/24021189856304/32955
+#EXTINF:-1,alliptvlinks.com Br- Sony HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32979
+#EXTINF:-1,alliptvlinks.com Br- Space HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32980
+#EXTINF:-1,alliptvlinks.com Br- Studio Universal HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32984
+#EXTINF:-1,alliptvlinks.com Br- SyFy HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32985
+#EXTINF:-1,alliptvlinks.com Br- TBS SD
+http://linux-app.tv:6204/15020208413552/24021189856304/32986
+#EXTINF:-1,alliptvlinks.com Br- Telecine Action HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32987
+#EXTINF:-1,alliptvlinks.com Br- Telecine Cult HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32988
+#EXTINF:-1,alliptvlinks.com Br- Telecine Fun HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32989
+#EXTINF:-1,alliptvlinks.com Br- Telecine Pipoca HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32990
+#EXTINF:-1,alliptvlinks.com Br- Telecine Premium HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32991
+#EXTINF:-1,alliptvlinks.com Br- Telecine Touch HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32992
+#EXTINF:-1,alliptvlinks.com Br- TNT HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32993
+#EXTINF:-1,alliptvlinks.com Br- TNT Séries HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32994
+#EXTINF:-1,alliptvlinks.com Br- Universal Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32998
+#EXTINF:-1,alliptvlinks.com Br- VH1 HD
+http://linux-app.tv:6204/15020208413552/24021189856304/32999
+#EXTINF:-1,alliptvlinks.com Br- VH1 MegaHits SD
+http://linux-app.tv:6204/15020208413552/24021189856304/33000
+#EXTINF:-1,alliptvlinks.com Br- Viva HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33001
+#EXTINF:-1,alliptvlinks.com Br- Warner Channel HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33002
+#EXTINF:-1,alliptvlinks.com Br- Sony Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33013
+#EXTINF:-1,alliptvlinks.com Br- Discovery Channel Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33018
+#EXTINF:-1,alliptvlinks.com Br- Arte 1 Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33019
+#EXTINF:-1,alliptvlinks.com Br- Paramount Channel Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33020
+#EXTINF:-1,alliptvlinks.com Br- TCM SD
+http://linux-app.tv:6204/15020208413552/24021189856304/33021
+#EXTINF:-1,alliptvlinks.com Br- MTV Live Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33022
+#EXTINF:-1,alliptvlinks.com Br- History Channel Full HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33023
+
+
+
+CANAIS ABERTOS
+#EXTINF:-1,Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0,RECORD ES (TV Vitória)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANAISGLAU
+#EXTINF:-1,RECORD SP
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:0, SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0,SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1876866237.m3u8?CANAISGLAU
+#EXTINF:-1,SBT PE 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0,SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?CANAISGLAU
+#EXTINF:0,TV CULTURA PR
+http://200.189.113.201/hls/tve.m3u8?CANAISGLAU
+#EXTINF:-1,TV CULTURA PR 2
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1, TV CULTURA (PA)
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, TV CULTURA (PB)
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+#EXTINF:-1, TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1,TV Transamérica (PR)
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+ 
+
+ 
+OUTROS
+#EXTINF:0,MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?CANAISGLAU
+#EXTINF:0,MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?CANAISGLAU
+#EXTINF:0,PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-logo="" group-title="Filmes", RAI Movie (Itália)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Música", RTL (Itália)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:0,TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?CANAISGLAU
+
+ 
+ESPORTES
+#EXTINF:-1 tvg-logo="" group-title="", CANAIS ESPORTIVOS - REAL MADRID TV 2
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esportes", CANAIS ESPORTIVOS - RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",RADIOS - Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="" group-title="", RADIOS - Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="USA",RADIOS - Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
